@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-03-01T01:03:42Z",
+  "features": [
+      {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/552544209",
+        "No": "24",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.396046,
+          33.773354
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2436943073",
+        "No": "2",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3960602,
+          33.7769058
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3158726357",
+        "No": "1",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3971292,
+          33.7780507
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/551077171",
+        "No": "4",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3974737,
+          33.7772107
+        ]
+      },
+      {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/551074364",
+         "No": "10",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3967662,
+          33.7765642
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2497197156",
+         "No": "9",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3974164,
+          33.7768005
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534033076",
+        "No": "6",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3974152,
+          33.7756613
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2049243168",
+        "No": "14",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3980671,
+          33.7753542
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/544900397",
+        "No": "12",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3988072,
+          33.7762909
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761375489",
+        "No": "17",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.398641,
+          33.7765185
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534032615",
+        "No": "13",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3983726,
+          33.7773069
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/553497944",
+        "No": "11",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3992086,
+          33.7747906
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3729491435",
+        "No": "15",
+        "entrance": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3996719,
+          33.7749804
+        ]
+      },
+     {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3078123330",
+        "No": "8",
+        "entrance": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3965628,
+          33.7750484
+        ]
+      },
+  ]
+}
+             
